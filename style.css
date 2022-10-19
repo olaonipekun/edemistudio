@@ -1,6 +1,7 @@
 body{
     background-color: aqua;
-    margin: 50;
+    margin: 40px;
+    padding: 30px;
 }
 h1{
     color: cyan;
